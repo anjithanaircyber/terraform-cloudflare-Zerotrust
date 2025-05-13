@@ -1,6 +1,6 @@
 terraform {
   cloud {
-    organization = "gvolt"
+    organization = "G_VOLT"
     workspaces {
       name = "terraform-cloudflare-Zerotrust"
     }
